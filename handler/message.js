@@ -37,10 +37,10 @@ const heartbeats = require('heartbeats');
 const sortArray = require('sort-array')
 const ytdl = require('ytdl-core')
 const TD = require('better-tord');
-const name = process.env.NAME || "Ruka"
+const name = process.env.NAME || "Rem"
 let mods = process.env.MODS;
 if (!mods) {
-    mods = "917003213983@s.whatsapp.net";
+    mods = "919609900020@s.whatsapp.net";
 }
 const ownerNumber = mods.split(",");
 const {
